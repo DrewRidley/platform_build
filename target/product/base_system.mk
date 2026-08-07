@@ -263,6 +263,7 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform.xml \
     preinstalled-packages-strict-signature.xml \
     privapp-permissions-platform.xml \
+    signature-permissions-praxis.xml \
     prng_seeder \
     recovery-persist \
     resize2fs \
