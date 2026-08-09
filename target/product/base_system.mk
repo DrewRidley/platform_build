@@ -264,6 +264,7 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-strict-signature.xml \
     privapp-permissions-platform.xml \
     signature-permissions-praxis.xml \
+    Updater \
     prng_seeder \
     recovery-persist \
     resize2fs \
